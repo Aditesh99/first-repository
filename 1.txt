@@ -1,1 +1,2 @@
 this is 1 .txt
+i am making change in 1.txt
